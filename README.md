@@ -1,5 +1,5 @@
 # Quantum Analytics Projects
-13 Projects for Quantum Analytics Internship
+13 Projects from Quantum Analytics Internship
 
 Project 1 of 13: Airline Flight Delays https://youtu.be/I-KBTnT5iQE
 
