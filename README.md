@@ -14,3 +14,5 @@ Project 5 of 13: Restaurant Ratings https://youtu.be/DzXhFOe5R2E
 Project 6 of 13: NYC Taxi Rides https://youtu.be/Kkf89ZDB1LE
 
 Project 8 of 13: Sharks Attacks https://youtu.be/WerLze6avR0
+
+Project 11 of 13: COVID-19 and Airport Traffic https://youtu.be/QT8mR7QXfLg
