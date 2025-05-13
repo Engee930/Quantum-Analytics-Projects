@@ -12,3 +12,5 @@ Project 4 of 13: World Energy Consumption https://youtu.be/FYvE_LqqIJQ
 Project 5 of 13: Restaurant Ratings https://youtu.be/DzXhFOe5R2E
 
 Project 6 of 13: NYC Taxi Rides https://youtu.be/Kkf89ZDB1LE
+
+Project 8 of 13: Sharks Attacks https://youtu.be/WerLze6avR0
