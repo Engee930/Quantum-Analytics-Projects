@@ -1,4 +1,4 @@
-# Quantum Analytics Projects
+# Power BI Projects
 13 Projects from Quantum Analytics Internship (12 using Power BI; 1 using Excel)
 
 Project 1 of 13: Airline Flight Delays https://youtu.be/I-KBTnT5iQE (Power BI)
